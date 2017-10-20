@@ -127,7 +127,8 @@
     "d3-timer": "1.0",
     "d3-transition": "1.1",
     "d3-voronoi": "1.1",
-    "d3-zoom": "1.5"
+    "d3-zoom": "1.5",
+    "d3-v4-cloud":"*"
   },
   "peerDependencies": {
     "@angular/core": "^4.0 || ^2.0 || 2.0.0-rc.5 || 2.0.0-rc.6 || 2.0.0-rc.7"

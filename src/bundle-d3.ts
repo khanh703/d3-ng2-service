@@ -29,3 +29,4 @@ export * from 'd3-timer';
 export * from 'd3-transition';
 export * from 'd3-voronoi';
 export * from 'd3-zoom';
+export {cloud} from 'd3-v4-cloud';
